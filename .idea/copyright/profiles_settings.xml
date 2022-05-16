@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <settings default="guessing_game">
+    <module2copyright>
+      <element module="All" copyright="guessing_game" />
+    </module2copyright>
+  </settings>
+</component>
